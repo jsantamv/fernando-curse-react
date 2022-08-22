@@ -12,8 +12,6 @@ export const AddCategory = ({ handleAddCategory }) => {
         e.preventDefault();
         if (inputValue.trim().length <= 1) return;
         
-        
-
         handleAddCategory(inputValue);
         setInputValue('');
     }
