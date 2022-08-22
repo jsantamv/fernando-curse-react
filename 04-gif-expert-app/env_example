@@ -1,2 +1,3 @@
 
 GIF_API_KEY = atNkNWj0XwuREvDt3Rbg4zzp8SN3Dhzs
+API_GIF_URL = 'api.giphy.com/v1/gifs/search'
